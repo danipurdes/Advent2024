@@ -1,5 +1,5 @@
 input_lines = []
-with open('input', encoding="utf-8") as f:
+with open('input2', encoding="utf-8") as f:
     for line in f:
         input_lines.append(line)
 
